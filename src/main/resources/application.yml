@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb: #https://elfinlas.github.io/2018/03/14/spring2mongo-troble1/
+      username: honeymon
+      password: developer
+      port: 27017
+      database: mongodb
+      host: 127.0.0.1
+      authentication-database: admin
